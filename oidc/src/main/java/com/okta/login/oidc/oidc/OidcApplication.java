@@ -12,4 +12,5 @@ public class OidcApplication  {
 		SpringApplication.run(OidcApplication.class, args);
 	}
 
+
 }
